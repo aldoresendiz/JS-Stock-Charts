@@ -22,7 +22,7 @@ async function main() {
 
     const useRealData = false;
 
-    // This is the example url from the documentation => https://api.twelvedata.com/time_series?symbol=AAPL,EUR/USD,ETH/BTC:Huobi,TRP:TSX&interval=1min&apikey=754b6ff2e90b40ae93c42a491150a73e
+    // This is the example url from the documentation => https://api.twelvedata.com/time_series?symbol=AAPL,EUR/USD,ETH/BTC:Huobi,TRP:TSX&interval=1min&apikey=
 
     // Below the url from the activity (passing four stock symbols)
     let GME, MSFT, DIS, BTNX;
